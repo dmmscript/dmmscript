@@ -1,6 +1,10 @@
-# Hi 👋🏻, I'm Danielly Moro
+Hi there, I'm Danielly Moro 👩‍💻
 
-👩🏻‍💻 I am a Computer Engineering Student  
-⚡ I am a Technician in Electronics and Mechatronics  
+Full Stack Developer | Computer Engineering Student 🎓
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/daniellymmoro/).
+Building mobile, web and data-driven solutions with
+Flutter · JavaScript · Python
+
+⚡ Technician in Electronics & Mechatronics
+
+📫 Let's connect → [LinkedIn](https://www.linkedin.com/in/daniellymmoro/).
